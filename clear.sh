@@ -1,4 +1,4 @@
-IMG=/home/erwan.vivien/afs/i3configperso
+IMG=~/afs/i3configperso
 
 mv "$IMG"/tmp/I3lock.png "$IMG"/
 rm -rf "$IMG"/tmp/

@@ -1,4 +1,4 @@
-IMAGE=/home/erwan.vivien/afs/i3configperso/tmp/I3lockTMP.png
+IMAGE=~/afs/i3configperso/tmp/I3lockTMP.png
 
 scrot $IMAGE;
 convert $IMAGE -swirl -360 $IMAGE;
