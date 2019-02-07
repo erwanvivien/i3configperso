@@ -1,6 +1,4 @@
 DP=$(xrandr | grep " connected" | cut -d' ' -f1);
-wei=$(xrandr | grep " connected" | cut -d' ' -f3 | cut -dx -f1);
-hei=$(xrandr | grep " connected" | cut -d' ' -f3 | cut -dx -f2 | cut -d+ -f1);
 
 while true; 
 do 
